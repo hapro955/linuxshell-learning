@@ -70,3 +70,5 @@ else
 fi 
 
 echo "day la dfjdfa"
+echo "ha sua lan 2"
+echo "ha sua lan 3"
