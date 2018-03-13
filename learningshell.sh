@@ -69,4 +69,4 @@ else
 	create_folder
 fi 
 
-
+echo "day la dfjdfa"
